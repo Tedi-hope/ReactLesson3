@@ -1,0 +1,19 @@
+*{
+  /*text-decoration: none;*/
+  list-style-type:none;
+}
+
+.menu ul li{
+  display: inline-block;
+}
+.menu a{
+  color:black;
+}
+
+footer{
+  margin-top: 450px;
+}
+
+.footerparts a{
+ color:black;
+}
